@@ -1,0 +1,40 @@
+.column1_1 {
+	float: left;
+	width: 50%;
+	position: relative;
+	left: 150px;
+	top: 0px;
+}
+
+
+.column2_1 {
+	float: left;
+	width: 50%;
+	position: relative;
+	top: 0px;
+}
+
+h1.second{
+    font-weight: bold;
+	font-size: 1.2cm;
+}
+
+.card2 {
+	/* Add shadows to create the "card" effect */
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	width: 300px;
+	background-color:  rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+}
+  
+  /* On mouse-over, add a deeper shadow */
+  .card2:hover {
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+
+  .padd{
+      padding-right: 210px;
+      padding-left: 130px;
+  }
